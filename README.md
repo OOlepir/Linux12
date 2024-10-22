@@ -1,1 +1,1 @@
-# Linux12
+Added ./gitignoe file
